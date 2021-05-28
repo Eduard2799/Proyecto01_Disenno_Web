@@ -1,0 +1,63 @@
+.start {
+    display: flex;
+    align-items: center;
+}
+
+.ul_start {
+    list-style-type: square
+}
+
+.first {
+    background-color: #20c997;
+}
+
+.third {
+    background-color: #f2f7ff;
+}
+
+nav {
+    background-color: #bda1f0;
+    color: white;
+}
+
+.btn_login {
+    background-color: #20c997;
+    color: white;
+}
+
+.btn_login:hover {
+    background-color: white;
+    color: #6f42c1;
+}
+
+.btn_singup {
+    background-color: #20c997 !important;
+    border: black;
+}
+
+.btn_singup:hover {
+    background-color: white;
+    color: #6f42c1;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.card:hover {
+    background-color: #20c997;
+}
+
+.second .card img {
+    background-color: white;
+}
+
+.list_funciones {
+    list-style-type: disc;
+}
+
+.timers img {}
+
+.fifth {
+    background-color: #f2f7ff;
+}
